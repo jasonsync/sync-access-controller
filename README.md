@@ -1,4 +1,4 @@
-# sync-access-ewelink-lan-controller
+# sync-access-lan
 
 #### Grant LAN users shared control of a single eWeLink account's connected smart devices. 
 
