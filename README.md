@@ -1,4 +1,4 @@
-# sync-access-lan-ewelink-controller
+# sync-access-ewelink-controller-lan-servers
 
 - Node.js controller 
   - eWeLink API interaction
