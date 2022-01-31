@@ -6,19 +6,7 @@ const {
   networkInterfaces
 } = require('os');
 
-/* Default config */
-const config = {
-  "host": {
-    "id": "default",
-    "secret": "1234",
-    "network": {
-      "ip": null,
-      "interface": null
-    }
-  },
-  "refreshInterval": 20,
-  "announceURL": 'https://asoundidea.co.za/sync-access/ip-mapper-ws.php'
-};
+const config = require('./config.json');
 // override default config with any set arguments
 argsToConfig();
 
