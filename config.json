@@ -1,0 +1,12 @@
+{
+  "host": {
+    "id": "default",
+    "secret": "1234",
+    "network": {
+      "ip": null
+    },
+    "os": "windows"
+  },
+  "refreshInterval": 30,
+  "serverAPI": "http://xxx.xxx.xxx.xxx/sync-access-server/lan-listener-ws/"
+}
